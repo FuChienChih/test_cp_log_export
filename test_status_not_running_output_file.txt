@@ -1,6 +1,0 @@
-Server: Server1:
-Reason: Not running
-Detail:
-name: Server1 
-      status: Not Running (15538)
-      last log read at: 17 Feb  14:17:12

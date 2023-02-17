@@ -3,14 +3,14 @@ import numpy as np
 import os
 import re
 import datetime
-# %%aaa
+
 INTERVAL = 30  # in minutes, you can change this
 MAX_INTERVAL = datetime.timedelta(minutes=INTERVAL)
 CURRENT_TIME = datetime.datetime.now()
 FORMAT = '%d %b %H:%M:%S'
 OUTPUTPATH = os.path.join(".", os.path.splitext(os.path.basename(__file__))[0])
 
-# %%aaa
+
 if not os.path.exists(OUTPUTPATH):
     os.makedirs(OUTPUTPATH)
 

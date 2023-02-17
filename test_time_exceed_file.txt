@@ -1,4 +1,0 @@
-name: Server1 
-      status: Running (15538)
-      last log read at: 17 Feb  13:37:12
-      debug file: /opt/CPmds-R81.10/customers/fwmgr/CPrt-R81.10/log_exporter/targets/

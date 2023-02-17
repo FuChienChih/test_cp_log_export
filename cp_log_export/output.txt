@@ -1,0 +1,7 @@
+Server: Server1:
+Reason: Exceed max_interval: 30 Mins
+Current Time: 07 Feb 19:36:42(Interval: 81)
+Detail:
+name: Server1 
+      status: Running (15538)
+      last log read at: 7 Feb  18:14:55

@@ -86,8 +86,6 @@ def execute_main_program_by_test_input(test_input):
 def open_test_output_file():
     with open(os.path.join(OUTPUTPATH, "output.txt"), "r") as f:
         return f.read()
-def time_through_year_funtion():
-  pass
 
 
 if __name__ == "__main__":
